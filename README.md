@@ -27,7 +27,7 @@ Once you have created and activated your virtual environment, synchronize your p
 (venv_name) shell_prompt$: pip install -r requirements.txt
 ```
 ## Working
-1. Add your account ID in account.txt
+1. Add your account ID in account.txt (in the form of xxx-xxx-xxxxxxxx-xxx)
 2. Add your API code in token.txt
 3. Run the main.py while specifying the trading arguments in the commandline itself. 
 
