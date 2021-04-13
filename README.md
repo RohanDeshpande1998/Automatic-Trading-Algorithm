@@ -11,6 +11,7 @@ List of features ready and TODOs for future development
 
 To-do list:
 * Generate concurrent stream of prices for multiple instruments
+* Prediction of closing price
 
 ## Environment
 
